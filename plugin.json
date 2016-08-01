@@ -1,0 +1,23 @@
+{
+  "author": "SUPINFO AppFactory",
+  "pluginName": "Youtube",
+  "pluginDescription": "Sync your YouTube channel feed or a single steam video and to give your users a fresh viewing experience. When you upload new videos, they'll automatically be pulled into your app.Related Topics: MP4, Advertising",
+  "supportEmail": "supinfoappfactory@supinfo.com",
+  "supportSite":"http://support.appdocumentation.com/knowledge-base/youtube-plugin-tutorial/",
+  "offlineModeEnabled": true,
+  "control": {
+    "content": {
+      "enabled": true
+    },
+    "design": {
+      "enabled": true
+    },
+    "settings": {
+      "enabled": false
+    }
+  },
+  "widget": {
+  },
+  "features": [],
+  "languages": ["en"]
+}
